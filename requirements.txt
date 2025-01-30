@@ -1,0 +1,10 @@
+einops
+jaxtyping
+beartype==0.15.0
+black
+matplotlib
+ruff
+scipy
+trimesh
+pytest
+tqdm
